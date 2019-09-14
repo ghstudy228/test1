@@ -4,3 +4,4 @@ conflict1
 conflict2
 pull
 pull
+push
