@@ -5,3 +5,4 @@ conflict2
 pull
 pull
 push
+push
