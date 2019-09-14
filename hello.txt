@@ -3,3 +3,4 @@ branch1
 conflict1
 conflict2
 pull
+pull
